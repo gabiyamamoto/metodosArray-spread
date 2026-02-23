@@ -1,0 +1,14 @@
+function atualizarIdade(usuario, novaIdade) {
+    return {
+        ...usuario,
+        idade: novaIdade
+    };
+}
+
+// Teste:
+const usuario = { nome: "Ana", idade: 25 };
+const usuarioAtualizado = atualizarIdade(usuario, 17);
+console.log(usuarioAtualizado);
+
+// Resultado:
+// { nome: 'Ana', idade: 17 }

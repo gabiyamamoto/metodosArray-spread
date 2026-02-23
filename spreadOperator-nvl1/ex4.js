@@ -1,0 +1,1 @@
+// Resposta: Não foi alterado, porque o copia.push(40) só modifica a copia da array.
