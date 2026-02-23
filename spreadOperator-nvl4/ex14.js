@@ -1,0 +1,1 @@
+/* O spread é importante no react porque permite atualizar os dados sem modificar o original. Ele cria uma nova versão com a mudança ao invés de alterar o que já existia */

@@ -2,5 +2,5 @@ const carnes = ["🥩"];
 const massas = ["🍝"];
 const sobremesas = ["🍰"];
 
-const lista = [...carnes, ...massas, ...sobremesas];
-console.log(lista);
+const menuCompleto = [...carnes, ...massas, ...sobremesas];
+console.log(menuCompleto);
